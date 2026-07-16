@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a5d97350-af1e-4ccc-9f87-d41d9dd736f4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-scolaire-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-scolaire-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestion-scolaire-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gestion-scolaire-api/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
